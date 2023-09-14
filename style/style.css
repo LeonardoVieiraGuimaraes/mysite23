@@ -1,0 +1,18 @@
+h1{
+    color: red;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: green;
+}
+body{
+    background-color: rgba(80, 90, 88, 0.616);
+}
+#nome{
+    color: yellow;
+}
+.teste{
+    color: rgb(236, 41, 41);
+}
